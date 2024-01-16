@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Chandler Bing",
+    "email": "chandler@gmail.com",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMTMwODc5NjI3N15BMl5BanBnXkFtZTcwNDEyMTE3Mw@@._V1_.jpg"
+  },
+  {
+    "name": "Monica Geller",
+    "email": "monica@gmail.com",
+    "photo": "https://home.adelphi.edu/~ni21572/Monica.jpg"
+  },
+  {
+    "name": "Rachel Green",
+    "email": "rachel@gmail.com",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/e/ec/Jennifer_Aniston_as_Rachel_Green.jpg"
+  },
+  {
+    "name": "Phoebe Buffay",
+    "email": "phoebe@gmail.com",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/f/f6/Friendsphoebe.jpg"
+  },
+  {
+    "name": "Joey Tribiani",
+    "email": "joey@gmail.com",
+    "photo": "http://t1.gstatic.com/images?q=tbn:ANd9GcQswsqdf66o0o0eOKMmce7Ga8BhZYg0S2COXQQXat0HA2VoBHEMmd54BSLdtsuSpasP5YAjmw"
+  },
+  {
+    "name": "Gunther",
+    "email": "gunther@gmail.com",
+    "photo": "http://t0.gstatic.com/images?q=tbn:ANd9GcT9jr7cgCmI9le1nTsU4D5NU1-P0UwPUGT0HIhXR3I00h0dGG4BHU4s_rtMaPql32uEfDmY"
+  },
+  {
+    "name": "Mona",
+    "email": "mona@gmail.com",
+    "photo": "http://t0.gstatic.com/images?q=tbn:ANd9GcTaoobyGi80czgVVXRb0XJlPZXdn4wxf8JwbK8oi09KHcUNeBBDO_2xlH456yCoAqYVQ8yf"
+  },
+  {
+    "name": "Mike Hanigan",
+    "email": "mike@gmail.com",
+    "photo": "https://i.insider.com/5ef4c09ff0f419694246e2e5?width=1000&format=jpeg&auto=webp"
+  }
+]
